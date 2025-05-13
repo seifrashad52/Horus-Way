@@ -5,14 +5,17 @@ Luxor and Aswan are among the most important tourist destinations in Egypt, comb
 
 ## Members' Name
 
-###- Seif Alden Hussien Rashad                           
-###- Elaria Elkess Danial 
-###- Nada Khaled Mohamed
-###- Ahmed Muhammed Sayed
+### Seif Alden Hussien Rashad                           
+
+### Elaria Elkess Danial 
+
+### Nada Khaled Mohamed
+
+### Ahmed Muhammed Sayed
 
 ## Link Figma
 
-https://www.figma.com/design/zbIbohUBeA7n16fejp4D11/Untitled?node-id=0-1&t=0oGpWsgIOqHlU9C6-1
+https://www.figma.com/design/zbIbohUBeA7n16fejp4D11/Untitled?nodeid=01&t=0oGpWsgIOqHlU9C61
 
 
 ## Tourism Significance of Luxor
