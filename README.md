@@ -1,7 +1,17 @@
-# Brief on Tourism in Luxor and Aswan
+# Horus Way
 
 ## Introduction
 Luxor and Aswan are among the most important tourist destinations in Egypt, combining historical heritage with breathtaking natural beauty. These cities attract tourists from all over the world, with Luxor housing the largest collection of ancient Egyptian monuments, while Aswan is known for its serene atmosphere and unique temples along the Nile River.
+
+## Members' Name
+
+### Seif Alden Hussien Rashad                            ### Nada Khaled Mohamed
+### Elaria Elkess Danial                                 ### Ahmed Muhammed Sayed
+
+## Link Figma
+'''
+https://www.figma.com/design/zbIbohUBeA7n16fejp4D11/Untitled?node-id=0-1&t=0oGpWsgIOqHlU9C6-1
+'''
 
 ## Tourism Significance of Luxor
 
