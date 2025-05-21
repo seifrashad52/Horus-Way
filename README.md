@@ -15,8 +15,7 @@ Luxor and Aswan are among the most important tourist destinations in Egypt, comb
 
 ## Link Figma
 
-https://www.figma.com/design/zbIbohUBeA7n16fejp4D11/Untitled?nodeid=01&t=0oGpWsgIOqHlU9C61
-
+](https://www.figma.com/design/zbIbohUBeA7n16fejp4D11/Untitled?node-id=0-1&t=d8KAQzLve0CD5eEW-1)
 
 ## Tourism Significance of Luxor
 
